@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ╔══════════════════════════════════════════════════════════════╗
-║              JWT ATTACK SUITE  —  by 0xZ33                     ║
+║              JWT ATTACK SUITE  —  by 0xZ33                   ║
 ║         github.com/Zeeshanafridai/jwt-attack-suite           ║
 ╚══════════════════════════════════════════════════════════════╝
 
